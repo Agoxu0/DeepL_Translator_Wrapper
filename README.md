@@ -1,6 +1,6 @@
-# DEEPL_Translator
+# DeepL_Translator
 
-DEEPL_Translator is a Python library that provides a simple interface for translating text using DeepL, a popular machine translation service. It supports translation between various languages.
+DeepL_Translator is a Python library that provides a simple interface for translating text using DeepL, a popular machine translation service. It supports translation between various languages.
 
 ## Installation
 
