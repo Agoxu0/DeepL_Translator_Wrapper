@@ -27,7 +27,7 @@ target_language = "pl"  # Replace with the target language code from the list be
 translated_text = DeepL.Translate(text, target_language)
 print(translated_text)
 ```
-4. Replace "fr" with the language code of the target language you want to translate to. You can choose from the following list of language codes:
+4. Replace "pl" with the language code of the target language you want to translate to. You can choose from the following list of language codes:
 ```
 Bulgarian
 "bg",
