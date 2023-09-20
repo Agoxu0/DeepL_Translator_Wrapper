@@ -11,8 +11,8 @@ pip install DEEPL_Translator
 ```
 
 # Basic Usage
-To use DEEPL_Translator, follow these simple steps:
-1. Import the DEEPL_Translator class:
+To use DeepL_Translator, follow these simple steps:
+1. Import the DeepL_Translator class:
 ```python
 from DeepL_Translator import Translator
 ```
