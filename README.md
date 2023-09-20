@@ -7,7 +7,7 @@ DEEPL_Translator is a Python library that provides a simple interface for transl
 You can install DEEPL_Translator using pip:
 
 ```bash
-pip install DEEPL_Translator
+pip install git+https://github.com/Agoxu0/DeepL_Translator_Wrapper
 ```
 
 # Basic Usage
